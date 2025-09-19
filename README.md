@@ -65,3 +65,8 @@ This project analyzes product substitution behavior in retail settings, focusing
    ```bash
    git clone https://github.com/yourusername/Supermarket_Project.git
    cd Supermarket_Project
+
+
+👨‍💻 Author
+
+Pedro Silva
